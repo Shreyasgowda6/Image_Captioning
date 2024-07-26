@@ -1,0 +1,23 @@
+INFO:root:Processed 100 images. Current memory usage: 82.5%
+INFO:root:Processed 200 images. Current memory usage: 83.3%
+INFO:root:Processed 300 images. Current memory usage: 83.9%
+INFO:root:Processed 400 images. Current memory usage: 84.5%
+INFO:root:Processed 500 images. Current memory usage: 85.3%
+INFO:root:Processed 600 images. Current memory usage: 86.0%
+INFO:root:Processed 700 images. Current memory usage: 87.5%
+INFO:root:Processed 800 images. Current memory usage: 84.5%
+INFO:root:Processed 900 images. Current memory usage: 84.9%
+INFO:root:Processed 1000 images. Current memory usage: 85.8%
+INFO:root:Processed 1100 images. Current memory usage: 85.8%
+INFO:root:Total processed images: 1100
+WARNING:matplotlib.image:Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+WARNING:matplotlib.image:Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+WARNING:matplotlib.image:Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+WARNING:matplotlib.image:Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+WARNING:matplotlib.image:Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+WARNING:matplotlib.image:Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+WARNING:matplotlib.image:Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+WARNING:matplotlib.image:Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+WARNING:matplotlib.image:Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+WARNING:matplotlib.image:Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+WARNING:matplotlib.image:Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
