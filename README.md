@@ -1,7 +1,5 @@
 # Image_Captioning
 
-# Image Captioning Project
-
 ## Overview
 
 This project aims to develop an image captioning model that generates descriptive captions for medical images. The workflow includes data loading, preprocessing, model building, training, and evaluation. The project ensures robust handling of data, effective preprocessing, and rigorous model training and evaluation for image caption generation.
